@@ -1,0 +1,17 @@
+C:\Users\acer\source\repos\BankingApp\GenericApp.BusinessLogic\bin\Debug\GenericApp.BusinessLogic.dll.config
+C:\Users\acer\source\repos\BankingApp\GenericApp.BusinessLogic\bin\Debug\GenericApp.BusinessLogic.dll
+C:\Users\acer\source\repos\BankingApp\GenericApp.BusinessLogic\bin\Debug\GenericApp.BusinessLogic.pdb
+C:\Users\acer\source\repos\BankingApp\GenericApp.BusinessLogic\bin\Debug\BankingApp.DataAccess.dll
+C:\Users\acer\source\repos\BankingApp\GenericApp.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\acer\source\repos\BankingApp\GenericApp.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\source\repos\BankingApp\GenericApp.BusinessLogic\bin\Debug\GenericApp.Common.dll
+C:\Users\acer\source\repos\BankingApp\GenericApp.BusinessLogic\bin\Debug\GenericApp.Common.pdb
+C:\Users\acer\source\repos\BankingApp\GenericApp.BusinessLogic\bin\Debug\BankingApp.DataAccess.pdb
+C:\Users\acer\source\repos\BankingApp\GenericApp.BusinessLogic\bin\Debug\BankingApp.DataAccess.dll.config
+C:\Users\acer\source\repos\BankingApp\GenericApp.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\acer\source\repos\BankingApp\GenericApp.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\source\repos\BankingApp\GenericApp.BusinessLogic\obj\Debug\GenericApp.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\BankingApp\GenericApp.BusinessLogic\obj\Debug\GenericApp.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BankingApp\GenericApp.BusinessLogic\obj\Debug\GenericApp.BusinessLogic.csproj.CopyComplete
+C:\Users\acer\source\repos\BankingApp\GenericApp.BusinessLogic\obj\Debug\GenericApp.BusinessLogic.dll
+C:\Users\acer\source\repos\BankingApp\GenericApp.BusinessLogic\obj\Debug\GenericApp.BusinessLogic.pdb
