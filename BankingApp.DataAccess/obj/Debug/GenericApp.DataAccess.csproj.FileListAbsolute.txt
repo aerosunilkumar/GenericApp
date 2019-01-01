@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\BankingApp\BankingApp.DataAccess\bin\Debug\BankingApp.DataAccess.dll.config
+C:\Users\acer\source\repos\BankingApp\BankingApp.DataAccess\bin\Debug\BankingApp.DataAccess.dll
+C:\Users\acer\source\repos\BankingApp\BankingApp.DataAccess\bin\Debug\BankingApp.DataAccess.pdb
+C:\Users\acer\source\repos\BankingApp\BankingApp.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\acer\source\repos\BankingApp\BankingApp.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\source\repos\BankingApp\BankingApp.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\acer\source\repos\BankingApp\BankingApp.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\source\repos\BankingApp\BankingApp.DataAccess\obj\Debug\GenericApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BankingApp\BankingApp.DataAccess\obj\Debug\GenericApp.DataAccess.csproj.CopyComplete
+C:\Users\acer\source\repos\BankingApp\BankingApp.DataAccess\obj\Debug\BankingApp.DataAccess.dll
+C:\Users\acer\source\repos\BankingApp\BankingApp.DataAccess\obj\Debug\BankingApp.DataAccess.pdb

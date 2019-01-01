@@ -1,0 +1,17 @@
+C:\Users\acer\source\repos\BankingApp\BankingApp.BusinessLogic\bin\Debug\BankingApp.BusinessLogic.dll.config
+C:\Users\acer\source\repos\BankingApp\BankingApp.BusinessLogic\bin\Debug\BankingApp.BusinessLogic.dll
+C:\Users\acer\source\repos\BankingApp\BankingApp.BusinessLogic\bin\Debug\BankingApp.BusinessLogic.pdb
+C:\Users\acer\source\repos\BankingApp\BankingApp.BusinessLogic\bin\Debug\BankingApp.DataAccess.dll
+C:\Users\acer\source\repos\BankingApp\BankingApp.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\acer\source\repos\BankingApp\BankingApp.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\source\repos\BankingApp\BankingApp.BusinessLogic\bin\Debug\BankingApp.DataAccess.pdb
+C:\Users\acer\source\repos\BankingApp\BankingApp.BusinessLogic\bin\Debug\BankingApp.DataAccess.dll.config
+C:\Users\acer\source\repos\BankingApp\BankingApp.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\acer\source\repos\BankingApp\BankingApp.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\source\repos\BankingApp\BankingApp.BusinessLogic\obj\Debug\BankingApp.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\BankingApp\BankingApp.BusinessLogic\obj\Debug\BankingApp.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BankingApp\BankingApp.BusinessLogic\obj\Debug\BankingApp.BusinessLogic.csproj.CopyComplete
+C:\Users\acer\source\repos\BankingApp\BankingApp.BusinessLogic\obj\Debug\BankingApp.BusinessLogic.dll
+C:\Users\acer\source\repos\BankingApp\BankingApp.BusinessLogic\obj\Debug\BankingApp.BusinessLogic.pdb
+C:\Users\acer\source\repos\BankingApp\BankingApp.BusinessLogic\bin\Debug\BankingApp.Common.dll
+C:\Users\acer\source\repos\BankingApp\BankingApp.BusinessLogic\bin\Debug\BankingApp.Common.pdb

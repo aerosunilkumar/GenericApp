@@ -1,0 +1,5 @@
+C:\Users\acer\source\repos\BankingApp\BankingApp.Common\obj\Debug\GenericApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BankingApp\BankingApp.Common\bin\Debug\GenericApp.Common.dll
+C:\Users\acer\source\repos\BankingApp\BankingApp.Common\bin\Debug\GenericApp.Common.pdb
+C:\Users\acer\source\repos\BankingApp\BankingApp.Common\obj\Debug\GenericApp.Common.dll
+C:\Users\acer\source\repos\BankingApp\BankingApp.Common\obj\Debug\GenericApp.Common.pdb

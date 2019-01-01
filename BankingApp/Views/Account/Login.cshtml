@@ -1,0 +1,28 @@
+﻿@model GenericApp.Common.ViewModels.UserViewModel
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+<span class="error">@Html.DisplayTextFor(q => q.GeneralError)</span>
+@using (Html.BeginForm("Login", "Account", FormMethod.Post))
+{
+    <div class="form-group">
+        <label for="email">User Name:</label>
+        @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+        <span class="error">@Html.DisplayTextFor(q => q.ErrorEmail)</span>
+    </div>
+    <div class="form-group">
+        <label for="pwd">Password:</label>
+        @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+        <span class="error">@Html.DisplayTextFor(q => q.ErrorPassword)</span>
+    </div>
+    <div class="checkbox">
+        <label>
+            @Html.CheckBoxFor(m => m.RememberMe)
+            Remember me
+        </label>
+    </div>
+    <button type="submit" class="btn btn-default">Submit</button>
+
+}

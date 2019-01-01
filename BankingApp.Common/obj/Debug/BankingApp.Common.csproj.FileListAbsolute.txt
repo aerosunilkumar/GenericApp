@@ -1,0 +1,6 @@
+C:\Users\acer\source\repos\BankingApp\BankingApp.Common\bin\Debug\BankingApp.Common.dll
+C:\Users\acer\source\repos\BankingApp\BankingApp.Common\bin\Debug\BankingApp.Common.pdb
+C:\Users\acer\source\repos\BankingApp\BankingApp.Common\obj\Debug\BankingApp.Common.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\BankingApp\BankingApp.Common\obj\Debug\BankingApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BankingApp\BankingApp.Common\obj\Debug\BankingApp.Common.dll
+C:\Users\acer\source\repos\BankingApp\BankingApp.Common\obj\Debug\BankingApp.Common.pdb
